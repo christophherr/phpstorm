@@ -1,0 +1,22 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://gitlab.com/" />
+    <option name="token" value="T3meaa8rMUxgsLU-MGxx" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/cherr/christophherr.com.git" />
+          <option name="name" value="christophherr.com" />
+          <option name="namespace" value="cherr" />
+          <option name="sshUrl" value="git@gitlab.com:cherr/christophherr.com.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/wpmusketeer/musket.git" />
+          <option name="name" value="musket" />
+          <option name="namespace" value="wpmusketeer" />
+          <option name="sshUrl" value="git@gitlab.com:wpmusketeer/musket.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
